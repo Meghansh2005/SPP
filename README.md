@@ -41,8 +41,27 @@ SPP/
 ├── requirements.txt # List of dependencies
 └── README.md # Project documentation
 
+---
+
+## 🔮 Future Enhancements
+
+- 🚀 Deploy as a web app using Streamlit or Flask  
+- 📈 Add performance metrics (MSE, RMSE, MAE)  
+- 💼 Support multiple stock tickers  
+- 🔄 Integrate real-time stock market data
 
 ---
+
+## 🙋‍♂️ About the Author
+
+**Developed by [Meghansh Bhati](https://github.com/Meghansh2005)**  
+🎓 Passionate about Deep Learning, Finance, and Quantum Computing.
+
+
+
+
+---
+
 
 ## 🚀 How to Run the Project
 
