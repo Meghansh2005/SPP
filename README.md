@@ -26,6 +26,13 @@ Stock price prediction is a classic and challenging machine learning problem. In
 
 ---
 
+## 📊 Sample Output
+
+> *Visualizing actual vs predicted stock prices using LSTM*
+
+![Stock Prediction Output](https://github.com/Meghansh2005/SPP/blob/main/predicted%20vs%20original.png?raw=true)
+
+
 ## 📂 Project Structure
 
 SPP/
